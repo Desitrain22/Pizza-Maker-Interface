@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Paint
+comment0.text=\n\ Write\ a\ description\ of\ class\ paint\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ paint()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
